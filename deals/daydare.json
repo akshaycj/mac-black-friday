@@ -1,0 +1,15 @@
+{
+  "name": "DayDare",
+  "url": "https://daydare.app/#price",
+  "platforms": ["iOS", "iPadOS", "watchOS"],
+  "category": "health",
+  "discount": "57% off",
+  "description": "Social confidence practice for shy people: one small real-life mission a day, the exact words to say before you go, and thirty seconds to log how it went.",
+  "prices": [{ "plan": "One-time purchase", "before": 6.99, "after": 2.99 }],
+  "terms": "One-time purchase: no subscription, no in-app purchases, no ads. The sale price is on the App Store, no code needed.",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "maker": "Alexander Matveev",
+  "makerUrl": "https://vektramind.com",
+  "icon": "https://daydare.app/apple-touch-icon.png"
+}

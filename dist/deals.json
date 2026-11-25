@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:11:48.698Z",
+  "updatedAt": "2026-11-25T23:14:28.776Z",
   "categories": [
     {
       "id": "ai",
@@ -1157,6 +1157,33 @@
       "makerUrl": "https://www.datapeek.dev/",
       "icon": "https://raw.githubusercontent.com/Rohithgilla12/data-peek/main/apps/desktop/build/icon.png",
       "addedAt": "2026-11-18T17:12:18.000Z"
+    },
+    {
+      "id": "daydare",
+      "name": "DayDare",
+      "url": "https://daydare.app/#price",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "watchOS"
+      ],
+      "category": "health",
+      "discount": "57% off",
+      "description": "Social confidence practice for shy people: one small real-life mission a day, the exact words to say before you go, and thirty seconds to log how it went.",
+      "prices": [
+        {
+          "plan": "One-time purchase",
+          "before": 6.99,
+          "after": 2.99
+        }
+      ],
+      "terms": "One-time purchase: no subscription, no in-app purchases, no ads. The sale price is on the App Store, no code needed.",
+      "starts": "2026-11-24",
+      "ends": "2026-12-01",
+      "maker": "Alexander Matveev",
+      "makerUrl": "https://vektramind.com",
+      "icon": "https://daydare.app/apple-touch-icon.png",
+      "addedAt": "2026-11-25T23:14:18.000Z"
     },
     {
       "id": "deckloud",

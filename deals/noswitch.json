@@ -1,0 +1,14 @@
+{
+  "name": "noswitch",
+  "url": "https://www.nosub.dev/noswitch?utm_source=github-longseespace&utm_medium=deal&utm_campaign=bf2026",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Turns your MacBook notch into a hub: clipboard history, screenshots, a file shelf, Claude Code and Codex agent status, and keep-awake.",
+  "discount": "50% off",
+  "prices": [{ "plan": "One-time purchase", "before": 14.99, "after": 7.49 }],
+  "terms": "Applied automatically, no code needed. One-time purchase, macOS 14+.",
+  "starts": "2026-11-26",
+  "ends": "2026-11-30",
+  "maker": "nosub",
+  "makerUrl": "https://www.nosub.dev"
+}

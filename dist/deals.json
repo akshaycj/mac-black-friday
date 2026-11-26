@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:12:08.066Z",
+  "updatedAt": "2026-11-26T04:32:41.037Z",
   "categories": [
     {
       "id": "ai",
@@ -6349,6 +6349,29 @@
       "makerUrl": "https://www.apptorium.com",
       "icon": "https://www.apptorium.com/shared/workspaces.png",
       "addedAt": "2026-11-20T20:43:17.000Z"
+    },
+    {
+      "id": "y-pod",
+      "name": "Y-Pod",
+      "url": "https://www.y-pod.app/",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "productivity",
+      "discount": "50% off Pro Lifetime",
+      "description": "A private life planner that helps you turn big goals into daily plans, with tasks, habits, budgeting, and journaling in one place.",
+      "prices": [
+        {
+          "plan": "Pro Lifetime",
+          "before": 99.99,
+          "after": 49.99
+        }
+      ],
+      "terms": "No code needed. Open Y-Pod → Settings → Upgrade. One-time purchase; local prices vary.",
+      "starts": "2026-11-23",
+      "ends": "2026-11-30",
+      "addedAt": "2026-11-26T04:32:30.000Z"
     },
     {
       "id": "yaptake",

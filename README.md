@@ -98,6 +98,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [Whisper Memos](https://whispermemos.com/changelog/2026-11-black-friday) | iOS, watchOS | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries, and send them to your email or other apps. Works in 58 languages. | **30% off yearly** · Pro yearly ~~$69.99~~ $49.99 · No code needed, the lower price applies automatically in the app. Price stays as long as you stay subscribed. 7-day free trial for new users · until Dec 6 |
 | [Wick](https://appsbymo.app/wick/) | macOS | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% off** · code **BLACKFRIDAY** · License ~~$15.99~~ $7.99 · with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026 · until Dec 1 |
 | [Workspaces](https://www.apptorium.com/workspaces) | macOS | Project-based Mac launcher that opens grouped files, folders, apps, websites, emails and Shortcuts with one click. | **50% off** · One-time ~~$19.99~~ $9.99 · One-time purchase per major version. No code needed · until Dec 6 |
+| [Y-Pod](https://www.y-pod.app/) | iOS, iPadOS | A private life planner that helps you turn big goals into daily plans, with tasks, habits, budgeting, and journaling in one place. | **50% off Pro Lifetime** · Pro Lifetime ~~$99.99~~ $49.99 · No code needed. Open Y-Pod → Settings → Upgrade. One-time purchase; local prices vary · until Nov 30 |
 
 ### Developer Tools
 

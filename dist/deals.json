@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:14:47.649Z",
+  "updatedAt": "2026-11-26T02:12:08.066Z",
   "categories": [
     {
       "id": "ai",
@@ -2230,6 +2230,31 @@
       "makerUrl": "https://hazeover.com",
       "icon": "https://hazeover.com/images/hazeover1024.png",
       "addedAt": "2026-11-25T05:11:09.000Z"
+    },
+    {
+      "id": "helix",
+      "name": "Helix",
+      "url": "https://tryhelix.app/?utm_source=boltai-bf&utm_campaign=bf2026",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "Hold Option + Space and a circle of tools shows up where your mouse is, so you don't have to remember a pile of shortcuts or dig through the menu bar.",
+      "discount": "Launch price $6.30",
+      "code": "BLACKFRIDAY30",
+      "prices": [
+        {
+          "plan": "One-time",
+          "before": 9,
+          "after": 6.3
+        }
+      ],
+      "terms": "One-time purchase, no subscription. Enter the code at checkout. 7-day free trial, no account. $9 since Nov 14. macOS 14+.",
+      "starts": "2026-11-20",
+      "ends": "2026-12-01",
+      "maker": "Lohith",
+      "makerUrl": "https://x.com/xLohith",
+      "addedAt": "2026-11-26T02:11:59.000Z"
     },
     {
       "id": "home-pet-monitor",

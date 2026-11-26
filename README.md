@@ -316,6 +316,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
+| [Rebit Pro](https://rebit.cc/) | iOS, iPadOS | Play your own retro games on the web or your phone, with cloud saves and multiplayer | **40% off the first year** · code **BLACKFRIDAY40** · First year of Pro (web checkout) ~~$14.99~~ $8.99 · USD price and code are for web checkout. Regular pricing after year one · until Dec 1 |
 | [Wavy Road](https://apps.apple.com/dk/app/wavy-road-endless-driving/id6804942333) | iOS | Endless driving game for iPhone where you steer the road and dodge obstacles. | **50% off** · Automatically applied to in-app purchases. No code needed. November 24–30, 2026 · until Nov 30 |
 
 ### Other
